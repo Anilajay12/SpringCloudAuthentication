@@ -1,5 +1,4 @@
-# SpringCloudAuthentication
-Demo Project for Spring Cloud Authentication
+# Demo Project for Spring Cloud Authentication
 
 # Spring Cloud Security | OAuth2 Google Sign In <img src="https://static.javatpoint.com/springboot/images/spring-boot-tutorial.jpg" width ="80px"> <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/BlogHeader_Set2_D.png" width="150px" height="80px">
 
