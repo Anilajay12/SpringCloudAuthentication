@@ -1,0 +1,11 @@
+  spring:
+    security:
+      oauth2:
+        client:
+          registration:
+            google:
+              client-id: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+              client-secret: XXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+  server:
+    port: 8089
